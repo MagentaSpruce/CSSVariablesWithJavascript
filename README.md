@@ -5,7 +5,11 @@ This project shows how to manipulate CSS variables using JavaScript.
 
 This project helped me to learn and understand better:
 1) The spacing property
-2) 
+2) using this.
+3) dataset
+4) DOM Manipulation
+
+There are no known bus assiciated with this project. No improvements are slated. It is mostly conceptual in purpose, although, it could be retooled and repurposed with relative ease in various use cases.
 
 
 A simple walkthrough and explanation of the code is below:
